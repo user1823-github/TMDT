@@ -1,0 +1,4 @@
+- cho phép đổi thên file để upload 1 file được nhiều lần;
+- phân biệt được loại file upload;
+- hiệu chỉnh cho phép upload được file có size lớn hơn 2M (ví dụ: 1G);
+- giới hạn file được upload nhỏ hơn 10M.
